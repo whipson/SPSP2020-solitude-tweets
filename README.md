@@ -1,4 +1,4 @@
-<b>Distinguishing Positive and Negative Aspects of Solitude in Tweets<b>
+<b>Distinguishing Positive and Negative Aspects of Solitude in Tweets
 
 Authors: Will E. Hipson, Svetlana Kiritchenko, Saif M. Mohammad, and Robert J. Coplan
 
