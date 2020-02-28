@@ -1,6 +1,6 @@
 <b>Distinguishing Positive and Negative Aspects of Solitude in Tweets
 
-Authors: Will E. Hipson, Svetlana Kiritchenko, Saif M. Mohammad, and Robert J. Coplan
+</b>Authors: Will E. Hipson, Svetlana Kiritchenko, Saif M. Mohammad, and Robert J. Coplan
 
 Presented at SPSP2020 as part of the symposium 'Solitude in the Modern World'.
 
